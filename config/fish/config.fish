@@ -3,3 +3,5 @@ if status is-interactive
 end
 
 source ~/.asdf/asdf.fish
+
+fish_add_path -g ~/.bin/
